@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LovooApp</string>
+    <string name="internet_error">Unable to detect internet. Make sure you are connected to internet</string>
+    <string name="retry">Retry</string>
+    <string name="cancel_option">Cancel</string>
+    <string name="time_picker">Time Picker</string>
+
+    <string name="title_activity_lovoo_fact">LovooFactActivity</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search department or type</string>
+    <string name="title_activity_meeting_detail">MeetingDetailActivity</string>
+    <string name="delete_confirmation">Do you want to delete this meeting?</string>
+    <string name="ok_option">Ok</string>
+    <string name="meeting_slot_deleted">Meeting slot got deleted</string>
+    <string name="slot_already_booked">Meeting time overlaps with already booked slot!</string>
+    <string name="meeting_saved">Meeting Saved</string>
+    <string name="booking_time_invalid">Booking end time is before start time !</string>
+    <string name="book_meeting_room">Book Meeting Room</string>
+    <string name="lovoo_fact">Lovoo Fact</string>
+    <string name="no_details_to_show">No details to show!</string>
+
+</resources>
