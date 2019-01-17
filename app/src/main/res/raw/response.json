@@ -1,0 +1,266 @@
+[
+    {
+        "department": "support",
+        "name": "Customer support team",
+        "type": "team",
+        "CompanyFact": {
+            "title": "Customer care",
+            "images": [
+                "https://picsum.photos/200/300?image=1079",
+                "https://picsum.photos/200/300?image=1067",
+                "https://picsum.photos/200/300?image=1031",
+                "https://picsum.photos/200/300?image=998"
+            ],
+            "text": "Making our users happy is the main challenge for our support team – every mail and message gets answered in a friendly manner while suggestions for improvement are evaluated together with product and data teams. Complaints and bug reports are reproduced and communicated to quality assurance. Our support continually improves in-app processes and analyses where we should communicate in a clearer way."
+        },
+        "officeLevel": "5",
+        "roomNumber": "5.1-09",
+        "id": "3ebumztWsCslxWUc0U1Q"
+    },
+    {
+        "department": "hr",
+        "name": "Human resources team",
+        "type": "team",
+        "CompanyFact": {
+            "text": "The team behind the team: our Human Resources Department ensures that we can grow with new top players on the team and that everone is comfortable. Starting with answering all questions about payroll, vacation days and so on but also taking care of yearly employee feedback circles and professional advancement, HR supports always with good advice and quick help.",
+            "title": "Human Resources",
+            "images": [
+                "https://picsum.photos/200/300?image=1067",
+                "https://picsum.photos/200/300?image=1079",
+                "https://picsum.photos/200/300?image=998",
+                "https://picsum.photos/200/300?image=1031"
+            ]
+        },
+        "officeLevel": "5",
+        "roomNumber": "5.2-18",
+        "id": "B4VSO2yuXyZyptcV6aXd"
+    },
+    {
+        "officeLevel": 4,
+        "roomNumber": "4.2-08",
+        "department": "engineering",
+        "name": "Featureteam \"PRIME\"",
+        "type": "team",
+        "CompanyFact": {
+            "title": "Team facts #1: FOCUS",
+            "images": [
+                "https://picsum.photos/200/300?image=1067",
+                "https://picsum.photos/200/300?image=1079",
+                "https://picsum.photos/200/300?image=998",
+                "https://picsum.photos/200/300?image=1031"
+            ],
+            "text": "We  always  work  on  those  issues,  that  have  the  highest  priority  and  the  largest  business  value.  Instead of just creating output, we learn through validated results from experiments. Everything with  no  immediate  customer  benefit,  is  waste  and  should  be  avoided.  We  are  pulling  our  tasks  independently instead of having them assigned to us. This reduces stress and we have more fun and time to learn."
+        },
+        "id": "HiGiRTKsRqSHa6ZNVRRo"
+    },
+    {
+        "roomNumber": "4.2-03/04/05",
+        "department": "engineering",
+        "name": "Featureteam \"BLUE\"",
+        "type": "team",
+        "CompanyFact": {
+            "images": [
+                "https://picsum.photos/200/300?image=1067",
+                "https://picsum.photos/200/300?image=1079",
+                "https://picsum.photos/200/300?image=998",
+                "https://picsum.photos/200/300?image=1031"
+            ],
+            "text": "Conclusions  from  measurements  and  failures  are  opportunities  for  us  to  learn  new  things  on  a  daily basis in our sustainable learning culture. We transform criticism to our advantage. Mistakes or  errors  are  communicated  openly  and  transparently  without  any  accusations  or  reproach.  We  strive  to  gain  knowledge  in  all  areas,  rather  than  just  in  our  specialty.  To  share  knowledge  continuously with others is a recipe for success.",
+            "title": "Team fact #2: CONTINUOUS LEARNING AND IMPROVEMENT"
+        },
+        "officeLevel": 4,
+        "id": "T2DPHY4mVSJDilHA8BsP"
+    },
+    {
+        "type": "team",
+        "CompanyFact": {
+            "text": "We work smartly by identifying what exactly makes us slow and by resolving it. Recurring tasks are automated. We believe that teams where the members know each other well are more effective and  more  successful  than  short-lived  ones.  Dependencies  are  made  visible  proactively  and  in time. We ensure that all parties involved have the necessary information and the skills to dissolve them. Each of us is curious and has the desire, to get to know new topics and to excel in them. By doing  this  we  can  master  all  challenges  vigorously  without  forcing  the  team  composition  to  change.",
+            "title": "Team fact #3: SPEED",
+            "images": [
+                "https://picsum.photos/200/300?image=1067",
+                "https://picsum.photos/200/300?image=1079",
+                "https://picsum.photos/200/300?image=998",
+                "https://picsum.photos/200/300?image=1031"
+            ]
+        },
+        "officeLevel": 4,
+        "roomNumber": "4.2-06",
+        "department": "engineering",
+        "name": "Featureteam \"NAN\"",
+        "id": "XGhtx9ud4IpzjdjVIBIY"
+    },
+    {
+        "department": "all",
+        "name": "Company gym ",
+        "officeLevel": 1,
+        "type": "public",
+        "roomNumber": "",
+        "id": "3vN4wUF7bSjJ2NRzVSAO"
+    },
+    {
+        "type": "public",
+        "roomNumber": "kitchen-05",
+        "department": "all",
+        "name": "Kitchen and breakfast room",
+        "officeLevel": 5,
+        "id": "6rYEskWN5Q08pbwJzWkI"
+    },
+    {
+        "department": "all",
+        "name": "Meeting DD3",
+        "officeLevel": 5,
+        "type": "meeting",
+        "roomNumber": "5.2-01",
+        "id": "BgX86SbN0UifijkwU8HZ"
+    },
+    {
+        "roomNumber": "5.2-02",
+        "department": "all",
+        "name": "Meeting DD4",
+        "typ": "meeting",
+        "officeLevel": 5,
+        "id": "XgPSfCeqe7chCovJFuQI"
+    },
+    {
+        "department": "management",
+        "name": "Department heads office",
+        "type": "team",
+        "CompanyFact": {
+            "title": "Engineering",
+            "images": [
+                "https://pixabay.com/get/ee33b90928fc1c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg",
+                "https://pixabay.com/get/e137b10d2ff11c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg",
+                "https://pixabay.com/get/e137b10d20f51c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg",
+                "https://pixabay.com/get/e83db40c2af1083ed1584d05fb1d4797e17fe5d01db50c4090f4c67fa5edb1b8de_640.jpg"
+            ],
+            "text": "The modern control centre of our Company. This is where people speak fluent PHP and Go, and Cassandra and MongoDB say good night to one another. The team is not only there to ensure that our users see relevant content, but also to take care of the technical side behind the scenes."
+        },
+        "officeLevel": "4",
+        "roomNumber": "4.2-02",
+        "id": "YLY8rqeHk92MbUG7vhgb"
+    },
+    {
+        "roomNumber": "",
+        "department": "all",
+        "name": "Atrium & rooftop garden",
+        "officeLevel": 4,
+        "type": "public",
+        "id": "dxxFqK5RxlwEESrkJFit"
+    },
+    {
+        "department": "management",
+        "name": "CPO & CTO office",
+        "type": "team",
+        "CompanyFact": {
+            "images": [
+                "https://pixabay.com/get/e83db2062df4013ed1584d05fb1d4797e17fe5d01db50c4090f4c67fa5edb1b8de_640.jpg",
+                "https://pixabay.com/get/e835b6092df7073ed1584d05fb1d4797e17fe5d01db50c4090f4c67fa5edb1b8de_640.jpg",
+                "https://pixabay.com/get/e835b60a2ffd013ed1584d05fb1d4797e17fe5d01db50c4090f4c67fa5edb1b8de_640.jpg",
+                "https://pixabay.com/get/ef3cb10f2ef21c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg"
+            ],
+            "text": "The mission of the product is to evaluate ideas and to implement them in cooperation with the developers as product and business improvements into our app. Whether you work as Product Manager, Product Designer, or UX Researcher - you can change the life of millions of users.",
+            "title": "Product Management"
+        },
+        "officeLevel": "4",
+        "roomNumber": "4.2-01",
+        "id": "hhg4lVvAIQAJrRY44oqH"
+    },
+    {
+        "CompanyFact": {
+            "title": "Advertising",
+            "images": [
+                "https://pixabay.com/get/e133b8092efd1c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg",
+                "https://pixabay.com/get/eb34b70f2bf6003ed1584d05fb1d4797e17fe5d01db50c4090f4c67fa5edb1b8de_640.jpg",
+                "https://pixabay.com/get/e134b80c2ff51c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg"
+            ],
+            "text": "This awesome team implements media deals and works on our advertising challenges. By creating new placements, improving monetization or marketing our inventory both directly and programmatically, we search for the highest CPM and fill rate."
+        },
+        "officeLevel": 4,
+        "roomNumber": "4.1-01",
+        "department": "marketing",
+        "name": "MA1",
+        "type": "team",
+        "id": "mffouppc9Z9QDsf9jNnK"
+    },
+    {
+        "department": "all",
+        "name": "staff canteen",
+        "officeLevel": 4,
+        "type": "public",
+        "roomNumber": "canteen",
+        "id": "nPwdeRwpLpyCoVzV4wct"
+    },
+    {
+        "CompanyFact": {
+            "images": [
+                "https://pixabay.com/get/ed36b00d2bf41c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg",
+                "https://pixabay.com/get/ef37b50829f61c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg",
+                "https://pixabay.com/get/ef37b40721f61c22d2524518b74d4794eb70e7d11dac104491f7c77ba7e9b5be_640.jpg"
+            ],
+            "text": "Scale, measure, analyze – The team is responsible for overseeing all numbers surrounding the Company. New features are also A / B tested, and mobile ad placements are optimized on a daily basis.",
+            "title": "Performance Marketing"
+        },
+        "officeLevel": 4,
+        "roomNumber": "4.1-15",
+        "department": "marketing",
+        "name": "MA 2",
+        "type": "team",
+        "id": "nWxJbIMhfjspKBLD6z7f"
+    },
+    {
+        "roomNumber": "4.2-09/10",
+        "department": "engineering",
+        "name": "System architects",
+        "officeLevel": 4,
+        "type": "team",
+        "id": "oVkLCuXIEURo1r6qrFuZ"
+    },
+    {
+        "roomNumber": "5.1-07",
+        "department": "all",
+        "name": "Meditation room",
+        "officeLevel": "5",
+        "type": "public",
+        "id": "owOEuEIsf4o8Mo4PEsBl"
+    },
+    {
+        "department": "data",
+        "name": "Data 1",
+        "officeLevel": 4,
+        "type": "team",
+        "roomNumber": 4.11,
+        "id": "pfnnlgD2WiyoFGMAD5cW"
+    },
+    {
+        "type": "meeting",
+        "roomNumber": "4.1-02",
+        "department": "all",
+        "name": "Meeting DD1",
+        "officeLevel": 4,
+        "id": "pnbSCXAoymIxrgLf4M6G"
+    },
+    {
+        "department": "all",
+        "name": "Meeting DD2",
+        "officeLevel": 5,
+        "type": "meeting",
+        "roomNumber": "5.1-03",
+        "id": "rmZxWS8sYmJGOi3aYteG"
+    },
+    {
+        "department": "all",
+        "name": "Chill room & library ",
+        "officeLevel": 4,
+        "type": "public",
+        "roomNumber": "4.1-05",
+        "id": "vpCKoH3ckbUr3uQzsAjT"
+    },
+    {
+        "type": "public",
+        "roomNumber": "4.1-04",
+        "department": "all",
+        "name": "Play and fun room",
+        "officeLevel": 4,
+        "id": "3DS8rJR6sXlIuRgMv5nZ"
+    }
+]

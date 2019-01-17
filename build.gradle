@@ -11,7 +11,15 @@ buildscript {
     ext.okhttp_version= '3.10.0'
     ext.rxjava_adapter = '1.0.0'
     ext.anko_version = '0.10.4'
-
+    ext.material_version = '1.0.0-rc02'
+    ext.legacy_version = '1.0.0-alpha1'
+    ext.constraint_version = '2.0.0-alpha2'
+    ext.appcompat_version = '1.0.1'
+    ext.test_version = '1.1.0'
+    ext.espresso_version = '3.1.0'
+    ext.junit_version = '4.12'
+    ext.lifecycle_version = '2.0.0-alpha1'
+    ext.moshi_version = '1.8.0'
 
     repositories {
         google()
