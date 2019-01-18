@@ -12,19 +12,19 @@ Built in kotlin with Android Jetpack components , Dagger , RxJava , Retrofit , M
 - *Landing Screen*<br>
 ![1capture](https://user-images.githubusercontent.com/39777674/51316966-448f0000-1a7c-11e9-9a18-941debc1cc12.PNG)
 <br>
-- *Landing Screen*<br>
+-  *Landing Screen* <br>
 
 ![1_1capture](https://user-images.githubusercontent.com/39777674/51316998-5e304780-1a7c-11e9-95e3-614641400130.PNG)
 
 <br>
-- *Company Details Screen*<br>
+-  *Company Details Screen*  <br>
 
 ![2capture](https://user-images.githubusercontent.com/39777674/51369849-0d236080-1b1b-11e9-953f-40a9dc3797da.PNG)
 
 
 <br>
 
-- *Company Details Screen*<br>
+- *Company Details Screen*  <br>
 
 ![2_2capture](https://user-images.githubusercontent.com/39777674/51317154-d6970880-1a7c-11e9-925c-97807b52e4ba.PNG)
 
@@ -34,7 +34,7 @@ Built in kotlin with Android Jetpack components , Dagger , RxJava , Retrofit , M
 ![3capture](https://user-images.githubusercontent.com/39777674/51317187-ef072300-1a7c-11e9-9030-1d2fd4a0aa29.PNG)
 
 <br>
-- *Meeting Room Time Selection*<br>
+- *Meeting Room Time Selection* <br>
 
 ![4capture](https://user-images.githubusercontent.com/39777674/51369876-2b895c00-1b1b-11e9-8bcb-76a3d171d78c.PNG)
 
@@ -45,7 +45,7 @@ Built in kotlin with Android Jetpack components , Dagger , RxJava , Retrofit , M
 
 <br>
 
-- *Booked Meeting Room*<br>
+- *Booked Meeting Room*  <br>
 
 ![5_5capture](https://user-images.githubusercontent.com/39777674/51317282-283f9300-1a7d-11e9-9a20-01e1799b8f2c.PNG)
 
