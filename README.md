@@ -63,6 +63,8 @@ This application is intended to show capabilities of Android Jetpack components 
 - Deleting booked room 
 
 <br>
+
+
 ![6capture](https://user-images.githubusercontent.com/39777674/51317323-4907e880-1a7d-11e9-9f6b-aedc84089139.PNG)
 
 
