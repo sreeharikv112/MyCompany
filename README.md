@@ -1,6 +1,8 @@
 # My Company Details Application
 
-This application is intended to show capabilities of Android Jetpack components including Room, Dagger , RxJava , Retrofit , Material Design and Glide. Which helps developers to handles all realtime scenarios like database updates , networking , orientation change etc. Built in kotlin</br>
+This application is intended to show capabilities of **Android Jetpack components including Room, Dagger , RxJava , Retrofit , Material Design and Glide**. 
+
+Which helps developers to handles all realtime scenarios like database updates , networking , orientation change etc. Built in kotlin</br>
 
 - Shows list of office rooms with information (Loaded from local JSON. Networking also available)
 - Can filter room list by 'department' and room 'type'
