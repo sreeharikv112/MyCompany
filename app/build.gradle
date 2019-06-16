@@ -67,7 +67,7 @@ dependencies {
     kapt "com.google.dagger:dagger-android-processor:$dagger_version"
 
     //APP Lifecycle
-    implementation group: 'androidx.lifecycle', name: 'lifecycle-extensions', version: '2.0.0-alpha1'
+    implementation group: 'androidx.lifecycle', name: 'lifecycle-extensions', version: '2.2.0-alpha01'
 
     //Retrofit , RxJava Dependencies
     implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
